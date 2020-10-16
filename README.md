@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**christinabejjani/christinabejjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Publications:
 
-Here are some ideas to get you started:
+* The repository `LWPCtufb` corresponds to the preprint, https://psyarxiv.com/cdpxh, from my fourth year in graduate school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* The repository `sclearn_fb` corresponds to the article, https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000725, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
+
+* The repository `ClusteredTSMem` corresponds to the article, https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02833/full, i.e., Bejjani and Egner (2019), *Frontiers in Psychology* (preprint: https://psyarxiv.com/tzuj2), from my second year in graduate school.
+
+* The repository `mindset_fMRI` corresponds to the article, https://doi.org/10.1016/j.biopsycho.2019.06.003, i.e., Bejjani, DePasque, and Tricomi (2019), *Biological Psychology* (open access: https://psyarxiv.com/3rbvd/), from my second year as a research assistant at Rutgers-Newark.
+
+* The repository `controltransfer` corresponds to the article, http://dx.doi.org/10.3758/s13423-018-1445-6, i.e., Bejjani, Zhang, and Egner (2018), *Psychonomic Bulletin & Review* (open access: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5903959/), from my first year in graduate school.
+
+#### Not on Github:
+
+I also use OSF for posting data and code.
+
+* This repository (https://osf.io/2ueca/) corresponds to a manuscript currently in preparation from my fourth year in graduate school.
+
+* This repository (https://osf.io/7jfbp/) corresponds to the article, https://journals.sagepub.com/doi/10.1177/0956797620904045, i.e., Bejjani, Dolgin, Zhang, and Egner (2020), *Psychological Science* (open access: https://osf.io/3bv94/), from my third year in graduate school.
+
+#### Course Websites:
+
+* I taught Introduction to Cognitive Psychology in the summer of 2019 at Duke University. The repository of materials is forked here & the site is https://cogpsychduke2019.github.io/
+
+* As part of my Bass Digital Education Fellowship at Duke University, I am developing a course on Introductory Programming for Online Social Science Experiments. The repository is actually an organization (https://github.com/socsciprogramming) so that in the future, anyone can join & update the material. That way, the class will be community-driven and hopefully long lasting!
+
+#### Website:
+
+* I also have a repository for my website, https://christinabejjani.github.io/. However, that's private, since I figured no one wants to get updates in their feed when I need to make a few quick changes.
+
+#### Contact:
+
+That's all you'll find here on Github & elsewhere from me!
+
+📫 How to reach me: christina.bejjani@duke.edu
+😄 Pronouns: she/her
