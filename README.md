@@ -4,7 +4,7 @@
 
 * The repository `LWPCtufb` corresponds to the preprint, https://psyarxiv.com/cdpxh, from my fourth year in graduate school.
 
-* The repository `sclearn_fb` corresponds to the article, https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000725, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
+* The repository `sclearn_fb` corresponds to the article, https://doi.org/10.1037/xhp0000720, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
 
 * The repository `ClusteredTSMem` corresponds to the article, https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02833/full, i.e., Bejjani and Egner (2019), *Frontiers in Psychology* (preprint: https://psyarxiv.com/tzuj2), from my second year in graduate school.
 
