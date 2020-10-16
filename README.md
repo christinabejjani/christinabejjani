@@ -30,6 +30,10 @@ I also use OSF for posting data and code.
 
 * I also have a repository for my website, https://christinabejjani.github.io/. However, that's private, since I figured no one wants to get updates in their feed when I need to make a few quick changes.
 
+#### Random:
+
+* Brenda Yang and I also co-mentored Taylor Albus as he used React.js to develop the web application, Mindset Mapper (mindsetmapper.org, https://talbus.github.io/mindsetmap/#/). See the Github repository `mindsetmap`.
+
 #### Contact:
 
 That's all you'll find here on Github & elsewhere from me!
