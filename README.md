@@ -32,7 +32,7 @@ I also use OSF for posting data and code.
 
 #### Random:
 
-* Brenda Yang and I also co-mentored Taylor Albus as he used React.js to develop the web application, Mindset Mapper (mindsetmapper.org, https://talbus.github.io/mindsetmap/#/). See the Github repository `mindsetmap`.
+* Brenda Yang and I also co-mentored Taylor Albus as he used React.js to develop the web application, Mindset Mapper (mindsetmapper.org, https://talbus.github.io/mindsetmap/#/). See the forked Github repository `mindsetmap`.
 
 #### Contact:
 
