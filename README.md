@@ -16,7 +16,9 @@
 
 I also use OSF for posting data and code.
 
-* This repository (https://osf.io/2ueca/) corresponds to a manuscript currently in preparation from my fourth year in graduate school.
+* This repository (https://osf.io/8qpg6/) corresponds to a manuscript under preparation from my fourth/fifth year in graduate school.
+
+* This repository (https://osf.io/2ueca/) corresponds to the preprint, https://psyarxiv.com/5ewj6, from my fourth year in graduate school.
 
 * This repository (https://osf.io/7jfbp/) corresponds to the article, https://journals.sagepub.com/doi/10.1177/0956797620904045, i.e., Bejjani, Dolgin, Zhang, and Egner (2020), *Psychological Science* (open access: https://osf.io/3bv94/), from my third year in graduate school.
 
