@@ -2,7 +2,7 @@
 
 #### Publications:
 
-* The repository `LWPCtufb` corresponds to the preprint, https://psyarxiv.com/cdpxh, from my fourth year in graduate school.
+* The repository `LWPCtufb` corresponds to the article, (DOI forthcoming), i.e., Bejjani and Egner (in press), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/cdpxh), from my fourth year in graduate school.
 
 * The repository `sclearn_fb` corresponds to the article, https://doi.org/10.1037/xhp0000720, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
 
