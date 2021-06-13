@@ -2,6 +2,8 @@
 
 #### Publications:
 
+##### On Github:
+
 * The repository `LWPCtufb` corresponds to the article, (DOI forthcoming), i.e., Bejjani and Egner (in press), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/cdpxh), from my fourth year in graduate school.
 
 * The repository `sclearn_fb` corresponds to the article, https://doi.org/10.1037/xhp0000720, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
@@ -12,9 +14,7 @@
 
 * The repository `controltransfer` corresponds to the article, http://dx.doi.org/10.3758/s13423-018-1445-6, i.e., Bejjani, Zhang, and Egner (2018), *Psychonomic Bulletin & Review* (open access: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5903959/), from my first year in graduate school.
 
-#### Not on Github:
-
-I also use OSF for posting data and code.
+##### On OSF:
 
 * This repository (https://osf.io/8qpg6/) corresponds to the preprint, https://psyarxiv.com/z5ngw/, from my fourth/fifth year in graduate school.
 
