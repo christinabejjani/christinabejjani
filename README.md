@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+I graduated from Duke University with a PhD in cognitive psychology. I now work at Guild Education. Most of the repositories that I have here on Github are related to my Duke work (see below). Please note that the code in each repository is primarily written in a notebook for folks to follow along with and is not always succinct.
+
 #### Publications:
 
 ##### On Github:
 
-* The repository `LWPCtufb` corresponds to the article, https://doi.org/10.1037/xlm0001058, i.e., Bejjani and Egner (in press), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/cdpxh), from my fourth year in graduate school.
+* The repository `LWPCtufb` corresponds to the article, https://doi.org/10.1037/xlm0001058, i.e., Bejjani and Egner (2021), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/cdpxh), from my fourth year in graduate school.
 
 * The repository `sclearn_fb` corresponds to the article, https://doi.org/10.1037/xhp0000720, i.e., Bejjani, Tan, and Egner (2020), *Journal of Experimental Psychology: Human Perception & Performance* (open access: https://psyarxiv.com/pzrsd/), from my third year in graduate school.
 
@@ -20,7 +22,7 @@
 
 * This repository (https://osf.io/8qpg6/) corresponds to the preprint, https://psyarxiv.com/z5ngw/, from my fourth/fifth year in graduate school.
 
-* This repository (https://osf.io/2ueca/) corresponds to the article, DOI forthcoming, i.e., Bejjani*, Siqi-Liu*, and Egner (in press), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/5ewj6), from my fourth year in graduate school.
+* This repository (https://osf.io/2ueca/) corresponds to the article, DOI forthcoming, i.e., Bejjani*, Siqi-Liu*, and Egner (2021), *Journal of Experimental Psychology: Learning, Memory, & Cognition* (open access: https://psyarxiv.com/5ewj6), from my fourth year in graduate school.
 
 * This repository (https://osf.io/7jfbp/) corresponds to the article, https://journals.sagepub.com/doi/10.1177/0956797620904045, i.e., Bejjani, Dolgin, Zhang, and Egner (2020), *Psychological Science* (open access: https://osf.io/3bv94/), from my third year in graduate school.
 
