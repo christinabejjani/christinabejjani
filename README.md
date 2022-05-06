@@ -18,7 +18,7 @@ I graduated from Duke University with a PhD in cognitive psychology. I now work 
 
 ##### On OSF:
 
-* This repository (https://osf.io/nmwhe/) corresponds to the preprint, https://psyarxiv.com/bfn7d/, from my fifth year in graduate school.
+* This repository (https://osf.io/nmwhe/) corresponds to the article, https://doi.org/10.1016/j.cogpsych.2022.101474, i.e., Bejjani, Hoyle, and Egner (2022), *Cognitive Psychology* (open access: https://psyarxiv.com/bfn7d/), from my fifth year in graduate school.
 
 * This repository (https://osf.io/8qpg6/) corresponds to the preprint, https://psyarxiv.com/z5ngw/, from my fourth/fifth year in graduate school.
 
