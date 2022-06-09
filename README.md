@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from Duke University with a PhD in cognitive psychology. I now work at Guild Education. Most of the repositories that I have here on Github are related to my Duke work (see below). Please note that the code in each repository is primarily written in a notebook for folks to follow along with and is not always succinct.
+I graduated from Duke University with a PhD in cognitive psychology. I now work as a data scientist. Most of the repositories that I have here on Github are related to my Duke work (see below). Please note that the analytic code in each repository is primarily written in a notebook for folks to follow along with and is not always succinct. For example, there are repetitive code blocks that should've been optimized, but succinctness wasn't top-of-mind during my academic days, and the folks most likely to look are those looking to replicate the experiment. The same goes for the JavaScript experimental code files.
 
 #### Publications:
 
